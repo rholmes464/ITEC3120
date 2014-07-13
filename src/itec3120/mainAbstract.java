@@ -14,6 +14,9 @@ import java.util.Iterator;
  * @author richardholmes
  */
 public abstract class mainAbstract {
+    // This is the main Class - Abstract 
+    // this is where we define the Strings that are going to be uses for each of the classes
+    // This would be considered the Super class
     private String LastName;
     private String FirstName;
     private String Address;
